@@ -6,6 +6,8 @@
 		/*** Base styles ***/
 		*{
 			box-sizing: border-box;
+			float: right; 
+
 		}
 
 		h1{
@@ -13,6 +15,8 @@
 
 			color: black;
   			text-align: center ;
+
+  			float: none;
 		}
 
   
@@ -34,7 +38,8 @@
 		.row{
 
 			width: 100%;
-			text-align: right; 
+			text-align: right;
+
 		}
 
 		p{
@@ -65,7 +70,7 @@
 	margin-right: auto;
 	margin-left: auto;
 
-	text-align: right; 
+	
  
 }
 
